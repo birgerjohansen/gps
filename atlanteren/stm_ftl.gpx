@@ -1,0 +1,76 @@
+<?xml version="1.0" standalone="yes"?>
+<gpx creator="GPS Visualizer http://www.gpsvisualizer.com/" version="1.0" xmlns="http://www.topografix.com/GPX/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+  <trk>
+    <name>GPS Visualizer data</name>
+    <trkseg>
+      <trkpt lat="18.1603" lon="-64.835">
+        <time>1998-03-24T12:00:00Z</time>
+      </trkpt>
+      <trkpt lat="18.7798" lon="-66.4277">
+        <time>1998-03-25T07:25:00Z</time>
+      </trkpt>
+      <trkpt lat="18.9218" lon="-67.3427">
+        <time>1998-03-25T14:50:00Z</time>
+      </trkpt>
+      <trkpt lat="19.39" lon="-68.4703">
+        <time>1998-03-26T03:23:00Z</time>
+      </trkpt>
+      <trkpt lat="19.8453" lon="-69.7103">
+        <time>1998-03-26T16:20:00Z</time>
+      </trkpt>
+      <trkpt lat="20.3167" lon="-71.21">
+        <time>1998-03-27T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="20.419" lon="-71.759">
+        <time>1998-03-27T15:45:00Z</time>
+      </trkpt>
+      <trkpt lat="20.639" lon="-73.2762">
+        <time>1998-03-28T05:36:00Z</time>
+      </trkpt>
+      <trkpt lat="20.742" lon="-74.0342">
+        <time>1998-03-28T15:07:00Z</time>
+      </trkpt>
+      <trkpt lat="21.1238" lon="-74.8078">
+        <time>1998-03-29T01:05:00Z</time>
+      </trkpt>
+      <trkpt lat="21.4382" lon="-75.5873">
+        <time>1998-03-29T11:05:00Z</time>
+      </trkpt>
+      <trkpt lat="21.628" lon="-76.0957">
+        <time>1998-03-29T17:48:00Z</time>
+      </trkpt>
+      <trkpt lat="22.0667" lon="-77.2687">
+        <time>1998-03-30T07:11:00Z</time>
+      </trkpt>
+      <trkpt lat="22.373" lon="-77.6795">
+        <time>1998-03-30T12:30:00Z</time>
+      </trkpt>
+      <trkpt lat="22.7082" lon="-78.283">
+        <time>1998-03-30T19:05:00Z</time>
+      </trkpt>
+      <trkpt lat="23.2653" lon="-78.9338">
+        <time>1998-03-31T03:05:00Z</time>
+      </trkpt>
+      <trkpt lat="23.419" lon="-79.0363">
+        <time>1998-03-31T05:05:00Z</time>
+      </trkpt>
+      <trkpt lat="23.7995" lon="-79.1752">
+        <time>1998-03-31T08:40:00Z</time>
+      </trkpt>
+      <trkpt lat="24.4975" lon="-79.428">
+        <time>1998-03-31T14:16:00Z</time>
+      </trkpt>
+      <trkpt lat="25.0545" lon="-79.633">
+        <time>1998-03-31T19:30:00Z</time>
+      </trkpt>
+      <trkpt lat="25.5988" lon="-79.8327">
+        <time>1998-03-31T23:19:00Z</time>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="25.8805" lon="-79.9483">
+        <time>1998-01-04T01:08:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

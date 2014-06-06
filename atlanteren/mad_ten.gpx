@@ -1,0 +1,74 @@
+<?xml version="1.0" standalone="yes"?>
+<gpx creator="GPS Visualizer http://www.gpsvisualizer.com/" version="1.0" xmlns="http://www.topografix.com/GPX/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+  <trk>
+    <name>GPS Visualizer data</name>
+    <trkseg>
+      <trkpt lat="32.3675" lon="-16.8408">
+        <time>1997-11-18T00:00:00Z</time>
+      </trkpt>
+      <trkpt lat="32.1438" lon="-16.7928">
+        <time>1997-11-18T01:55:00Z</time>
+      </trkpt>
+      <trkpt lat="31.949" lon="-16.759">
+        <time>1997-11-18T04:00:00Z</time>
+      </trkpt>
+      <trkpt lat="31.742" lon="-16.7298">
+        <time>1997-11-18T06:00:00Z</time>
+      </trkpt>
+      <trkpt lat="31.5978" lon="-16.7055">
+        <time>1997-11-18T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="31.3283" lon="-16.6803">
+        <time>1997-11-18T12:00:00Z</time>
+      </trkpt>
+      <trkpt lat="31.176" lon="-16.6072">
+        <time>1997-11-18T14:00:00Z</time>
+      </trkpt>
+      <trkpt lat="31.0103" lon="-16.542">
+        <time>1997-11-18T16:00:00Z</time>
+      </trkpt>
+      <trkpt lat="30.8627" lon="-16.4298">
+        <time>1997-11-18T18:00:00Z</time>
+      </trkpt>
+      <trkpt lat="30.7427" lon="-16.3447">
+        <time>1997-11-18T19:45:00Z</time>
+      </trkpt>
+      <trkpt lat="30.5715" lon="-16.235">
+        <time>1997-11-18T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="30.4232" lon="-16.2315">
+        <time>1997-11-19T00:00:00Z</time>
+      </trkpt>
+      <trkpt lat="30.2948" lon="-16.2352">
+        <time>1997-11-19T02:05:00Z</time>
+      </trkpt>
+      <trkpt lat="30.1755" lon="-16.2343">
+        <time>1997-11-19T04:00:00Z</time>
+      </trkpt>
+      <trkpt lat="30.0415" lon="-16.2417">
+        <time>1997-11-19T06:00:00Z</time>
+      </trkpt>
+      <trkpt lat="29.9145" lon="-16.2195">
+        <time>1997-11-19T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="29.7953" lon="-16.1852">
+        <time>1997-11-19T09:55:00Z</time>
+      </trkpt>
+      <trkpt lat="29.5747" lon="-16.1535">
+        <time>1997-11-19T13:00:00Z</time>
+      </trkpt>
+      <trkpt lat="29.148" lon="-16.1087">
+        <time>1997-11-19T19:00:00Z</time>
+      </trkpt>
+      <trkpt lat="29" lon="-16.0853">
+        <time>1997-11-19T21:00:00Z</time>
+      </trkpt>
+      <trkpt lat="28.823" lon="-16.0397">
+        <time>1997-11-19T23:15:00Z</time>
+      </trkpt>
+      <trkpt lat="28.6603" lon="-16.0278">
+        <time>1997-11-20T01:25:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
